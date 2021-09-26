@@ -19,9 +19,24 @@ A TicTacToe Game built for android devices having amazing features such as inbui
 ## Features
 <h3>This Tic-Tac-Toe game currently has three game modes:</h3>
   <h4>
-    1) 1v1 against a human player with inbuilt scoreboard system which keeps on updating as the game progresses,cool animations, an alert system(toast) which alerts players about the outcome of the game as it is finished and users can have it by clicking the Play Again button.</h4>
+    1) 1 v 1 against a human player with inbuilt scoreboard system which keeps on updating as the game progresses, cool animations, an alert system(toast) which alerts players about the outcome of the game as it is finished and users can continue the battle by clicking the Play Again button as the game finishes.</h4>
     <img src = "https://user-images.githubusercontent.com/76823502/134799686-77d44d1c-edd7-4b32-86da-e7f1ec43f00e.png">
     <h4>
-    2) 1v1 Custom Game Modes:
+    2) 1 v 1 Custom Game Modes: These Custom Game Modes 
+  i) 10 seconds:
+  ii)15 seconds:
+  iii)20 seconds:
+  
+  </h4>
+ ## Tech Stack
+ <h4> 
+  1)Built entirely using Android Studio. <br>
+  2)Plan to use SQLite/mongodb database to store the game played by the user and connecting it to a node server(using Express.js framework).
+  3)Tensorflow to build a ML model around the game which can be used by the computer engine.
+  
+  </h4>
+  ## Future Enhancements
+  <h4>
+  1)
 
 
