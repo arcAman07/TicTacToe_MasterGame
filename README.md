@@ -34,14 +34,14 @@ A TicTacToe Game built for android devices having amazing features such as inbui
   <img src = "https://user-images.githubusercontent.com/76823502/134803639-e16520ac-2afa-4ea3-af44-1e987990982d.png">
 <h4>Currently these are the timer available in the custom game mode, will be planning to add a user custom game mode where users will be able to set the time of the game.</h4>
 <h4>
-  i) 10 seconds<br>
-  ii)15 seconds<br>
-  iii)20 seconds<br>
+  i) 10 seconds<br><br>
+  ii)15 seconds<br><br>
+  iii)20 seconds<br><br>
   
   </h4>
   <h4>
   3) 1 v 1 Computer Engine Mode: Currently this mode is not fully implemented as the game are not stored in the database and a ML model is not trained using that data.
-  Currently in this game Mode after the user's response, the computer engine is playing a random move.It is under development and should be developed soon.
+   Currently in this game Mode after the user's response, the computer engine is playing a random move. It is under development and should be developed soon.
   </h4>
   
 ## Tech Stack
@@ -56,14 +56,14 @@ A TicTacToe Game built for android devices having amazing features such as inbui
  
  ## Future Enhancements
   <h4>
-  1) Improvement in the UI of the application.<br>
+  1) Improvement in the UI of the application.<br><br>
   2) Adding custom User input game modes where users can set the duration of the game.<br><br>
   3) Using mongodb/SQLite database to store the games and handling that data with node server(using Express.js)<br><br>
   4) Training a ML model using neural network from the games and corresponding resullts collected(dynamic model).<br><br>
   5) Implementing the computer engine mode based on the trained ML model.<br><br>
   6) Introducing move takebacks.
   </h4>
-  ## Try it Out!
+ ## Try it Out!
   1) `git clone https://github.com/Apurva-tech/unite.git` and run it in Android Studio.<br><br>
   2) You can also copy the url '' and paste it in Android Studio under 'Get Project Using Version Control'.<br><br>
   3) You can then run this application either in your emulator( virtual device) or your smartphone.<br><br>
