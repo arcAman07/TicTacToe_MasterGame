@@ -61,11 +61,13 @@ A TicTacToe Game built for android devices having amazing features such as inbui
   3) Using mongodb/SQLite database to store the games and handling that data with node server(using Express.js)<br><br>
   4) Training a ML model using neural network from the games and corresponding resullts collected(dynamic model).<br><br>
   5) Implementing the computer engine mode based on the trained ML model.<br><br>
-  6) Introducing move takebacks.
-  </h4>
- ## Future Enhancements
+  6) Introducing move takebacks.</h4><br><br>
+  
+ ## Try it Now!
+ <h4>
   1) `git clone https://github.com/arcAman07/TicTacToe_MasterGame.git` and run it in Android Studio.<br><br>
   2) You can also copy the url `https://github.com/arcAman07/TicTacToe_MasterGame.git` and paste it in Android Studio under 'Get Project Using Version Control'.<br><br>
   3) You can then run this application either in your emulator( virtual device) or your smartphone.<br><br>
+  </h4>
 
 
