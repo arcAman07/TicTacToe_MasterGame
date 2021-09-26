@@ -45,8 +45,9 @@ A TicTacToe Game built for android devices having amazing features such as inbui
   1)Built entirely using Android Studio. <br>
   2)Plan to use SQLite/mongodb database to store the game played by the user and connecting it to a node server(using Express.js framework).<br>
   3)Tensorflow to build a ML model around the game which can be used by the computer engine.<br>
+  <img src = "https://user-images.githubusercontent.com/76823502/134804006-088a6813-6e4b-4525-995a-969c12197111.png">
+
   </h4>
-  <img src = "https://user-images.githubusercontent.com/76823502/134803748-4d59eb71-8b0d-44dd-8767-427de577bcc0.png">
 
  
  ## Future Enhancements
