@@ -17,8 +17,8 @@ A TicTacToe Game built for android devices having amazing features such as inbui
 
 
 ## Features
-<h3>This Tic-Tac-Toe game currently has three game modes:</h3>
-  <h4>
+<h2>This Tic-Tac-Toe game currently has three game modes:</h3>
+  <h3>
     1) 1v1 against a human player with inbuilt scoreboard system which keeps on updating as the game progresses,cool animations, an alert system(toast) which alerts players about the outcome of the game as it is finished and users can have it by clicking the Play Again button.</h4>
     <img src = "https://user-images.githubusercontent.com/76823502/134799686-77d44d1c-edd7-4b32-86da-e7f1ec43f00e.png">
 
