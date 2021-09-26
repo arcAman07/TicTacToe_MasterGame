@@ -30,6 +30,8 @@ A TicTacToe Game built for android devices having amazing features such as inbui
   <img src="https://user-images.githubusercontent.com/76823502/134803152-2f54cb5a-5620-4a4f-a573-8dc269254768.png">
   <h4>As soon as the game finishes the timer stops automatically, updating the scoreboard and alerting the winner of the game as a toast message.</h4>
   <img src = "https://user-images.githubusercontent.com/76823502/134803452-01f531e5-7892-4aef-b887-9c9cdf2fe76b.png">
+  <h4> If the game is not finished and the time runs out, then the game will be considered a Draw and scoreboard will be accordingly updated. The user will be prompted to PLAY AGAIN or return to the HOME PAGE.</h4>
+  <img src = "https://user-images.githubusercontent.com/76823502/134803639-e16520ac-2afa-4ea3-af44-1e987990982d.png">
 <h4>Currently these are the timer available in the custom game mode, will be planning to add a user custom game mode where users will be able to set the time of the game.</h4>
 <h4>
   i) 10 seconds:<br>
