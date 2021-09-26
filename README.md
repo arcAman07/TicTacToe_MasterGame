@@ -34,19 +34,20 @@ A TicTacToe Game built for android devices having amazing features such as inbui
   <img src = "https://user-images.githubusercontent.com/76823502/134803639-e16520ac-2afa-4ea3-af44-1e987990982d.png">
 <h4>Currently these are the timer available in the custom game mode, will be planning to add a user custom game mode where users will be able to set the time of the game.</h4>
 <h4>
-  i) 10 seconds:<br>
-  ii)15 seconds:<br>
-  iii)20 seconds:<br>
+  i) 10 seconds<br>
+  ii)15 seconds<br>
+  iii)20 seconds<br>
   
   </h4>
- ## Tech Stack
+  
+## Tech Stack
  <h4> 
   1)Built entirely using Android Studio. <br>
   2)Plan to use SQLite/mongodb database to store the game played by the user and connecting it to a node server(using Express.js framework).<br>
   3)Tensorflow to build a ML model around the game which can be used by the computer engine.<br>
   
   </h4>
-  ## Future Enhancements
+ ## Future Enhancements
   <h4>
   1)
 
