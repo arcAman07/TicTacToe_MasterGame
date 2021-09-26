@@ -65,8 +65,8 @@ A TicTacToe Game built for android devices having amazing features such as inbui
   
  ## Try it Now!
  <h4>
-  1) `git clone https://github.com/arcAman07/TicTacToe_MasterGame.git` and run it in Android Studio.<br><br>
-  2) You can also copy the url `https://github.com/arcAman07/TicTacToe_MasterGame.git` and paste it in Android Studio under 'Get Project Using Version Control'.<br><br>
+  1) git clone https://github.com/arcAman07/TicTacToe_MasterGame.git and run it in Android Studio.<br><br>
+  2) You can also copy the url https://github.com/arcAman07/TicTacToe_MasterGame.git and paste it in Android Studio under 'Get Project Using Version Control'.<br><br>
   3) You can then run this application either in your emulator( virtual device) or your smartphone.<br><br>
   </h4>
 
