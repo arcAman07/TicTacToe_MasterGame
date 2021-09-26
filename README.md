@@ -57,15 +57,15 @@ A TicTacToe Game built for android devices having amazing features such as inbui
  ## Future Enhancements
   <h4>
   1) Improvement in the UI of the application.<br>
-  2) Adding custom User input game modes where users can set the duration of the game.<br>
-  3) Using mongodb/SQLite database to store the games and handling that data with node server(using Express.js)<br>
-  4) Training a ML model using neural network from the games and corresponding resullts collected(dynamic model).<br>
-  5) Implementing the computer engine mode based on the trained ML model.<br>
-  6) Introducing move takebacks.<br>
+  2) Adding custom User input game modes where users can set the duration of the game.<br><br>
+  3) Using mongodb/SQLite database to store the games and handling that data with node server(using Express.js)<br><br>
+  4) Training a ML model using neural network from the games and corresponding resullts collected(dynamic model).<br><br>
+  5) Implementing the computer engine mode based on the trained ML model.<br><br>
+  6) Introducing move takebacks.
   </h4>
   ## Try it Out!
-  1) `git clone https://github.com/Apurva-tech/unite.git` and run it in Android Studio.<br>
-  2) You can also copy the url '' and paste it in Android Studio under 'Get Project Using Version Control'.<br>
-  3) You can then run thsi application either in your emulator or your smartphone.<br>
+  1) `git clone https://github.com/Apurva-tech/unite.git` and run it in Android Studio.<br><br>
+  2) You can also copy the url '' and paste it in Android Studio under 'Get Project Using Version Control'.<br><br>
+  3) You can then run this application either in your emulator( virtual device) or your smartphone.<br><br>
 
 
