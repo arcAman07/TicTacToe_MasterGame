@@ -39,6 +39,10 @@ A TicTacToe Game built for android devices having amazing features such as inbui
   iii)20 seconds<br>
   
   </h4>
+  <h4>
+  3) 1 v 1 Computer Engine Mode: Currently this mode is not fully implemented as the game are not stored in the database and a ML model is not trained using that data.
+  Currently in this game Mode after the user's response, the computer engine is playing a random move.It is under development and should be developed soon.
+  </h4>
   
 ## Tech Stack
  <h4> 
@@ -54,8 +58,11 @@ A TicTacToe Game built for android devices having amazing features such as inbui
   <h4>
   1) Improvement in the UI of the application.<br>
   2) Adding custom User input game modes where users can set the duration of the game.<br>
-  3) Using mongodb/SQLite database to store the games and handling that data with node server(using Express.js)
-  4) Training a ML model using neural network from the games and corresponding resullts collected(dynamic model).
-  5) Implementing a computer engine mode based on 
+  3) Using mongodb/SQLite database to store the games and handling that data with node server(using Express.js)<br>
+  4) Training a ML model using neural network from the games and corresponding resullts collected(dynamic model).<br>
+  5) Implementing the computer engine mode based on the trained ML model.<br>
+  </h4>
+  ## Try it Out!
+  1)
 
 
