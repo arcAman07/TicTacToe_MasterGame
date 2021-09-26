@@ -1,5 +1,5 @@
 # TicTacToe-MasterGame
-A TicTacToe Game built for android devices having amazing features such as inbuilt scoreboard to track the game prohress, new custom game Modes based on set time for each player(and also the total game),playing against a computer engine and so on.
+A TicTacToe Game built for android devices having amazing features such as inbuilt scoreboard to track the game progress, new custom game Modes based on set time for each player(and also the total game),playing against a computer engine and so on.
 
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/arcAman07/TicTacToe_MasterGame?logo=github&style=for-the-badge)](https://github.com/arcAman07/) 
 [![GitHub last commit](https://img.shields.io/github/last-commit/arcAman07/TicTacToe_MasterGame?style=for-the-badge&logo=git)](https://github.com/arcAman07/) 
@@ -12,6 +12,7 @@ A TicTacToe Game built for android devices having amazing features such as inbui
 [![Issues](https://img.shields.io/github/issues/arcAman07/TicTacToe_MasterGame?style=for-the-badge&label=Issues)](https://github.com/arcAman07/TicTacToe_MasterGame)
 [![Watchers](	https://img.shields.io/github/watchers/arcAman07/TicTacToe_MasterGame?label=Watch&style=for-the-badge)](https://github.com/arcAman07/TicTacToe_MasterGame/) 
 
-
-arcAman07
-TicTacToe_MasterGame
+## Features
+<h3>This Tic-Tac-Toe game currently has three game modes:
+  <h4>
+    1)
